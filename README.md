@@ -34,7 +34,7 @@ The company needed to answer the following business questions:
 
 ## Tools Used
 
-- **SQL** – Data cleaning and analysis
+- **Python** – Data cleaning and analysis
 - **Microsoft Excel** – Data preparation
 - **Tableau** – Dashboard development and visualization
 

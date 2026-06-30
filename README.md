@@ -158,11 +158,11 @@ FMCG-Sales-and-Product-Performance-Analysis
 
 ### Dashboard 1 – Sales Performance
 
-*(Insert dashboard screenshot here.)*
+![Dashboard 1](dash 1.png)
 
 ### Dashboard 2 – Product Performance
 
-*(Insert dashboard screenshot here.)*
+![Dashboard 2](dash 2.png)
 
 ---
 
